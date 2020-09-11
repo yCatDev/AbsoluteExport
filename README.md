@@ -11,9 +11,14 @@
 
 ### How to use?
 1. Download unitypackage file and import to your project.
-2. In "Project View" window right click on needed asset or directory, and select AbsoluteExport/Export complete package. ![](demo1.gif)
-3. AbsoluteExport collect all depencieses and set checks on that. But you can change it and export only that what you want. ![](demo2.gif)
+2. In "Project View" window right click on needed asset or directory, and select AbsoluteExport/Export complete package. 
+![](demo1.gif)
+3. AbsoluteExport collect all depencieses and set checks on that. But you can change it and export only that what you want. 
+![](demo2.gif)
 4. Save it and have fun ;)
 
 ### Important note
 Selecting assets works correctly only with file browsing area in "Project View" window. Dont try to use it on files from left file tree, etc.
+
+### Also
+Thanks to @luke161 for the simple [IMGUI TreeView implementation](https://github.com/luke161/Unity-IMGUI-TreeView)
